@@ -8,6 +8,6 @@ def fibonacci(n):
     return series
 
 # Example usage
-num_terms = 10
+num_terms = 100
 fib_series = fibonacci(num_terms)
 print(fib_series)
