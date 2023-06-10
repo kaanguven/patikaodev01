@@ -31,3 +31,7 @@ Bu dizi, doğada ve matematiksel problemlerde birçok yerde bulunur. Fibonacci d
 ![Altın Oran](https://www.thoughtco.com/thmb/qRNN3pvHNeFe_UDMPAWLES3rxqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-651240376-645f9422a1684adbaea17576261113e5.jpg)
 
 Fibonacci dizisi, birçok sanat ve tasarım alanında da kullanılır. Örneğin, bazı sanat eserlerindeki oranlamalar Fibonacci dizisine dayanır.
+
+## Sonuç
+
+Leonardo Fibonacci, matematik tarihinde önemli bir figürdür ve Fibonacci dizisiyle tanınır. Dizinin birçok matematiksel ve doğal özellik taşıması, onu ilgi çekici kılar. Fibonacci dizisinin keşfi, matematik, doğa ve sanat alanlarında uzun süreli etkilere sahiptir.
